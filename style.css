@@ -208,12 +208,14 @@
             text-align: left;
             color: #ffffff;
             margin-bottom: 10px;
+            font-weight: bold;
         }
 
         .contact p {
             text-align: left;
             color: #ffffff;
             margin-bottom: 80px;
+            font-size: 20px;
         }
 
         .contacts-button {
